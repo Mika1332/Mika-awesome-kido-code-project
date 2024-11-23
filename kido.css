@@ -1,0 +1,24 @@
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: chocolate;
+  color: aliceblue;
+  text-align: center;
+}
+
+.footer-content{
+  max-width: 960px;
+  margin: 0 auto;
+  font-family: fantasy;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.4;
+  letter-spacing: .03em;
+  font-size: 1em;
+}
+
+.credit{
+  text-align: center;
+}
